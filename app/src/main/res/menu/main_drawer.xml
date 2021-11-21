@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Recordings">
+
+        <menu>
+
+            <item
+                android:id="@+id/Video"
+                android:title="Video Box"
+
+                />
+
+        </menu>
+
+    </item>
+
+
+    <item android:title="Settings">
+
+        <menu>
+
+            <item
+                android:id="@+id/frame"
+                android:title="Frame" />
+            <item
+                android:id="@+id/Resolution"
+                android:title="Resolution" />
+            <item
+                android:id="@+id/Bitrates"
+                android:title="Bitrates" />
+
+        </menu>
+
+    </item>
+
+
+</menu>

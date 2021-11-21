@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/drawable-v24/back_dialog.xml" value="0.2203125" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/drawable-v24/rectangle_border.xml" value="0.2203125" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/drawable/app_back_gradient.xml" value="0.2203125" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/drawable/rect_btn.xml" value="0.2203125" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/activity_whatsapp_contacts.xml" value="0.18840579710144928" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/chat_item.xml" value="0.192481884057971" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/cus_back_dialog.xml" value="0.1838768115942029" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/cus_del_dialog.xml" value="0.17481884057971014" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/cus_not_per_dialog.xml" value="0.1838768115942029" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/custom_tab.xml" value="0.192481884057971" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/fragment_all_chat.xml" value="0.192481884057971" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/fragment_facebook.xml" value="0.192481884057971" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/fragment_insta.xml" value="0.192481884057971" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/fragment_whats_app.xml" value="0.192481884057971" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/header.xml" value="0.192481884057971" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/layout/list_whatsapp.xml" value="0.18840579710144928" />
+        <entry key="..\:/FHA/UnseenMessage/app/src/main/res/menu/main_drawer.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
